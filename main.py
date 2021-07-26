@@ -50,7 +50,7 @@ sql_query = """
     CREATE TABLE IF NOT EXISTS frauds(
         credit_card_number VARCHAR(100),
         ipv4 VARCHAR(100),
-        country_code VARCHAR(50),
+        state VARCHAR(50),
         CONSTRAINT primary_key_constraint PRIMARY KEY (credit_card_number)
     )
     """
