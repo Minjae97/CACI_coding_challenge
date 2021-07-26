@@ -1,0 +1,8 @@
+maestro => 24
+mastercard => 55
+visa => 352
+amex => 84
+discover => 99
+diners => 54
+jcb16 => 185
+jcb15 => 74
